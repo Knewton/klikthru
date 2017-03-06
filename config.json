@@ -1,0 +1,21 @@
+{
+	"demo": {
+		"users" : [{
+			"username" : "ilya.bagrak+cb@knewton.com",
+			"password" : "Grabber11", 
+			"type" : "learner",
+
+			"section" : "Intermediate Algebra",
+
+			"assignment" : {
+				"name" : "Solving Linear Systems with Two Variables",
+				"responses" : [false, true, false, true, false, true, false]
+			}, 
+
+			"quiz" : {
+				"name" : "", 
+				"responses" : []
+			}
+		}]
+	}
+}

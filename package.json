@@ -1,0 +1,14 @@
+{
+  "name": "klikthru",
+  "version": "1.0.0",
+  "description": "Klikthru - Autogenerate Direct Clickthrough Demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "klikthru": "node klikthru.js"
+  },
+  "dependencies": {
+    "phantomjs": "^2.1.7",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
